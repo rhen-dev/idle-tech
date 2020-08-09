@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
+h1 {
+    font-family: "Rubik", sans-serif;
+    font-size: 18px;
+}
+
+p {
+    font-family: "Rubik", sans-serif;
+    font-size: 14px;
+}
+
+.h-center {
+    text-align: center;
+}
