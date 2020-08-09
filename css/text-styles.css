@@ -3,6 +3,8 @@
 h1 {
     font-family: "Rubik", sans-serif;
     font-size: 32px;
+    -moz-user-select: none;
+    -webkit-user-select: none;
 }
 
 p {
